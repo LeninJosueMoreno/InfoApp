@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InfoApp</string>
+
+    <string name="userid">userid</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="enviar">enviar</string>
+
+
+
+
+
+</resources>
